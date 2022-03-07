@@ -4,7 +4,7 @@
 
 ![](./ocw1.png)
 
-###  运行 -chenchao
+###  运行
 
 ![](./ocw4.png)
 
